@@ -12,7 +12,7 @@ const ESSAYS = [
     displayTitle: "First Essay",
     essayLabel: "First Essay (kind of long)",
     date: "March 2026",
-    readTime: "18 min",
+    readTime: "~18 min read",
 
     excerpt: "I hold that the universe itself — not a personal deity, not a humanoid god, not an abstraction — is the fundamental reality, and that this reality operates through an inherent rational order.",
     sections: [
@@ -58,7 +58,7 @@ const ESSAYS = [
 `When people have pushed back — on the unfalsifiability of "everything is for good," on the apparent naivety of "you cannot fail if you give your all" — I have found that the objections sharpen the framework rather than dismantle it. "For good" is not a claim about personal benefit; it is about the correct operation of the whole, which sometimes requires outcomes that hurt. "Giving your all" includes the act of getting back up, which means failure only becomes possible at the point of quitting. I do not offer these clarifications as proof that the framework is right. I offer them because the fact that it survives interrogation is, at minimum, a reason to keep going.`,
 `And I want to be clear about what I am not claiming. I am not claiming to have the answer. I am claiming to feel the shape of something — something that may well exceed what any human mind can fully hold. There may be dimensions, structures, forms of infinity that I will never be able to model, no matter how far I push. I accept that. The honest position, as far as I can tell, is to hold the conviction and the uncertainty together: to take what I have seen seriously without pretending I have seen all of it.`,
 `There is a metaphor I came across that has stayed with me: the finger pointing at the moon. The texts, the traditions, the arguments — these are all fingers. The moon is the thing itself. I did not begin with the fingers. I happened to look up first, and only later learned how many hands were already pointing in the same direction. Whether that is a strength or a limitation, I cannot say yet. But it is where I am, and I would rather set it down honestly than wait until I feel qualified to speak.`,
-`One last thing. If anything I have described here sounds familiar under a different name — if you recognize this order as God, as Allah, as Brahman, as Providence, as the dao — I am not saying you are wrong. I am ==not== making a claim ==against anyone's== faith. I am describing what I have seen, using the language available to me, and if your tradition has seen the same thing and called it something else, then we may simply be standing at different positions around something that exceeds all of the names we have given it. The Sufi mystic who describes union with the divine, the Christian who feels the hand of a living God, the Taoist who moves with the flow of all things — I do not believe these are errors. I believe they may be parallel encounters with a reality so vast that no single vocabulary can contain it. My ancestors understood this. Tengrism never demanded that other faiths be silenced, because the eternal sky was wide enough to hold all of them. I hold the same view. What I have written here is not the name. It is one more finger, pointed at the same moon.`
+`Writing is how I organize my thinking. These will tend to be long — I follow the idea until it's done.`
         ]
       }
     ]
@@ -460,7 +460,7 @@ function HomePage({ mounted, navigateTo }) {
       </div>
 
       <div style={{
-        marginTop: 56,
+        marginTop: 32,
         animation: mounted ? "fadeUp 1s cubic-bezier(0.16, 1, 0.3, 1) 0.5s both" : "none"
       }}>
         <p style={{
@@ -473,7 +473,13 @@ function HomePage({ mounted, navigateTo }) {
         }}>
           {SITE_CONFIG.tagline}
           <br /><br />
-          {SITE_CONFIG.bio}
+          {"I like math, physics, ML, and philosophy."}
+          <br />
+          {"Guided by first principles."}
+          <br /><br />
+          {"I write because it forces me to actually understand what I think. If I can\u2019t structure my thoughts on paper, I probably don\u2019t understand them well enough."}
+          <br /><br />
+          {"Sometimes I just want to put a thought somewhere."}
         </p>
       </div>
 
@@ -906,7 +912,7 @@ function AboutPage({ mounted }) {
           About
         </h2>
 
-        {["I'm 18, based in Almaty, Kazakhstan. I spend most of my time on machine learning, mathematics, and physics.", "I'm a CMS-ranked boxer, nationally ranked mountaineer and trail runner. CMS — Candidate for Master of Sport — is the competitive classification system across post-Soviet countries.", "I'm interested in how the same mathematical structures — differential equations, optimization, control theory — keep appearing across physics, economics, and logistics. I think that pattern means something.", "I write because it forces me to actually understand what I think. If I can't explain something simply, I probably don't understand it well enough. Sometimes I just want to put a thought somewhere."].map((text, i) => (
+        {["I'm 18, based in Almaty, Kazakhstan. I spend most of my time on machine learning, mathematics, and physics.", "I'm a CMS-ranked boxer, nationally ranked mountaineer and trail runner. CMS — Candidate for Master of Sport — is the competitive classification system across post-Soviet countries.", "I'm interested in how the same mathematical structures — differential equations, optimization, control theory — keep appearing across physics, economics, and logistics. I think that pattern means something.", "Writing is how I organize my thinking. These will tend to be long \u2014 I follow the idea until it's done."].map((text, i) => (
           <p key={i} style={{
             fontFamily: "'Inter', sans-serif",
             fontSize: 16,
