@@ -128,13 +128,13 @@ const ESSAYS = [
       },
       {
         heading: "5. Entry",
-        image: PERFORMANCE_IMG,
         paragraphs: [
 `I bought USO after the strikes were confirmed. I could have entered on February 27; the signals were unambiguous. I decided to be conservative and enter on confirmation rather than prediction. That reduced potential upside but eliminated the scenario where the strike gets delayed or called off and the position goes negative.`
         ]
       },
       {
         heading: "6. Exit",
+        image: PERFORMANCE_IMG,
         paragraphs: [
 `I had a model where oil could reach $200 if Hormuz stayed closed long enough. I did not trade that model.`,
 `When Trump began signaling that the war would end "very soon" and the administration started discussing Navy escorts through the strait, a counterforce had entered the thesis. The original logic was: Hormuz closes, oil spikes. The new variable was: the U.S. is actively trying to reopen it. That meant the trade had an expiration I couldn't predict. I sold near $120.`,
