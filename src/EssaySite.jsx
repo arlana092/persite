@@ -82,14 +82,14 @@ const ESSAYS = [
     excerpt: "By tracking seven independent variables (internal Iranian inflation, commercial aviation patterns, military deployments) I developed a high-conviction position that resulted in a 23% return on USO over a four-day period.",
     sections: [
       {
-        heading: "Overview",
+        heading: "",
         paragraphs: [
 `While many investors reacted to Middle East tensions as a general signal to buy oil, this trade was built on a specific sequence of geopolitical and economic indicators identified prior to the initial strikes.`,
 `By tracking seven independent variables (internal Iranian inflation, commercial aviation patterns, military deployments) I developed a high-conviction position that resulted in a 23% return on USO over a four-day period.`
         ]
       },
       {
-        heading: "1. Iran Was Breaking From the Inside",
+        heading: "1.",
         paragraphs: [
 `December 28, 2025. Protests erupt across Iran. The rial had lost over 40% of its value. Inflation hit 42%. Food prices up 72%. What started as economic anger became the largest anti-government movement since 2022.`,
 `The regime killed thousands. Estimates range from 7,000 to 36,500 dead in January alone. Internet was cut nationwide.`,
@@ -97,7 +97,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "2. The Strike Was Coming",
+        heading: "2.",
         paragraphs: [
 `I didn't know the exact date. But by late February, the signals moved from strategic to tactical.`,
 `February 27: the U.S. State Department authorized the departure of non-emergency personnel and families from Israel, citing safety risks. The language was direct: "Consider leaving while commercial flights are available." This is not a routine advisory update. This is evacuation.`,
@@ -107,19 +107,19 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "3. The Provocation Made Silence Impossible",
+        heading: "3.",
         paragraphs: [
 `February 28, 2026. During Ramadan. The U.S. and Israel killed Ayatollah Ali Khamenei, Supreme Leader of Iran for 36 years. His family died with him. So did the IRGC commander-in-chief, the armed forces chief of staff, and the secretary of the Defense Council. Trump stated the goal was regime change.`,
 `Three factors made Iranian retaliation inevitable:`,
-`==Timing.== Killing the Supreme Leader during Ramadan, the holiest month in Islam, was not just a military strike. Khamenei held the status of both political leader and religious authority. For Shia Iran, this crossed a line that no government could absorb without responding.`,
-`==Identity.== Iran built its entire post-1979 identity on resistance and refusal to submit. Not responding to the assassination of their leader would signal to the world that Iran can be hit without consequence. For a regime whose legitimacy was already damaged by the protests, projecting weakness externally would be fatal.`,
-`==Unification.== The same people who were protesting against the regime in January were now demanding mobilization. The external attack overwrote the internal divisions. Thousands volunteered for service. This is a predictable mechanism (internal enemies become secondary when an external threat appears) but you had to track both the protests and the strike to see it coming.`
+`==1)== Killing the Supreme Leader during Ramadan, the holiest month in Islam, was not just a military strike. Khamenei held the status of both political leader and religious authority. For Shia Iran, this crossed a line that no government could absorb without responding.`,
+`==2)== Iran built its entire post-1979 identity on resistance and refusal to submit. Not responding to the assassination of their leader would signal to the world that Iran can be hit without consequence. For a regime whose legitimacy was already damaged by the protests, projecting weakness externally would be fatal.`,
+`==3)== The same people who were protesting against the regime in January were now demanding mobilization. The external attack overwrote the internal divisions. Thousands volunteered for service. This is a predictable mechanism (internal enemies become secondary when an external threat appears) but you had to track both the protests and the strike to see it coming.`
         ]
       },
       {
-        heading: "4. Hormuz Was the Obvious Weapon",
+        heading: "4.",
         paragraphs: [
-`Knowing Iran would respond was not enough. I needed to know ==how==.`,
+`Knowing that Iran would respond isn't enough, the whole point is to understand how they would respond.`,
 `The Strait of Hormuz is a 34-kilometer chokepoint between Iran and Oman. 20% of the world's oil (roughly 20 million barrels a day) passes through it. Saudi Arabia, UAE, Iraq, Kuwait, and Qatar all depend on it for exports. 30% of Europe's jet fuel and 20% of global LNG transit the strait.`,
 `Iran's IRGC controls the coastline. They have fast attack boats, sea mines, and anti-ship missiles. They have trained for this scenario for decades.`,
 `Hormuz was the clearest and most painful card Iran could play, and they could play it relatively easily. It wasn't just revenge. It was strategic leverage. If the global economy starts choking without Gulf oil, pressure on the U.S. to stop the operation grows exponentially. This was the rational move, the emotional move, and the militarily feasible move, all at once.`,
@@ -127,13 +127,13 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "5. Entry",
+        heading: "5.",
         paragraphs: [
 `I bought USO after the strikes were confirmed. I could have entered on February 27; the signals were unambiguous. I decided to be conservative and enter on confirmation rather than prediction. That reduced potential upside but eliminated the scenario where the strike gets delayed or called off and the position goes negative.`
         ]
       },
       {
-        heading: "6. Exit",
+        heading: "6.",
         image: PERFORMANCE_IMG,
         paragraphs: [
 `I had a model where oil could reach $200 if Hormuz stayed closed long enough. I did not trade that model.`,
@@ -143,10 +143,10 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "7. The Chain",
+        heading: "7.",
         paragraphs: [
 `Each link was a separate judgment. If any one failed, the trade doesn't work.`,
-`Internal crisis → strike is imminent → provocation makes silence impossible → external threat unifies the country → Hormuz is the optimal weapon → oil spikes → exit when counterforce appears.`,
+`Internal crisis -> strike is imminent -> provocation makes silence impossible -> external threat unifies the country -> Hormuz is the optimal weapon -> oil spikes -> exit when counterforce appears.`,
 `Seven links. All held.`
         ]
       }
@@ -156,14 +156,14 @@ const ESSAYS = [
     id: "do-you-think-in-words",
     title: "Do You Think in Words?",
     displayTitle: "Do You Think in Words?",
-    essayLabel: "Do You Think in Words?",
+    essayLabel: "Does human language require a new solution?",
     date: "March 2026",
     readTime: "~20 min read",
 
     excerpt: "You can read a sentence and know it is wrong without being able to write the right one. Something is doing the judging, and it is not language.",
     sections: [
       {
-        heading: "The Gap Between Understanding and Export",
+        heading: "",
         paragraphs: [
 `You can read a sentence and know it is wrong without being able to write the right one. This is a strange thing if you think about it. If language is what you think in, if words are the medium of thought itself, then understanding and producing should be the same skill. You cannot hear a note as out of tune unless you know the right pitch, and if you know the right pitch, you should be able to sing it. But you cannot. People read bad prose and flinch at exactly the right moment and then cannot write their way out of the same paragraph.`,
 `Something is doing the judging, and it is not language. When you read a sentence and something feels off, you are not comparing it against a better sentence. You do not have the better sentence. You are comparing it against something wordless. A felt structure, a shape the idea is supposed to have, and the sentence is failing to match it. The understanding is there. The export is missing.`,
@@ -172,14 +172,14 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "Language as Lens",
+        heading: "",
         paragraphs: [
 `I should be careful here. This is not an argument that language is useless or that writing is mere transcription. Sometimes you do not know what you think until you write it down. Most of what I understand clearly, I understand because at some point I sat down and tried to put it into sentences. The ones that resisted were the ones I did not actually understand yet. The act of forcing a vague intuition through the bottleneck of language can sharpen it, complete it, reveal structure you did not know was there. Writing is thinking, not just recording. But notice what that implies. If writing can ==clarify== a thought, then the thought existed before the writing, in some murkier, less resolved form. The language did not create it. The language focused it. The way a lens does not create light, but without the lens you cannot see what the light is showing you. Both things are true. There is something underneath language. And language is sometimes the only tool precise enough to find out what it is.`,
 `There is also a reasonable case that language does not just export thought but shapes it. Some concepts may not exist without the words for them. Some languages carve the world differently, and their speakers seem to think differently as a result. I am not qualified to resolve this, and the people who are have been arguing about it for decades. But even the weakest version of that argument is compatible with what I am saying here. Language influences thought. Language is also not all of thought. Both seem to be true. The question is about the ratio, and I suspect it leans more toward the wordless than we are comfortable admitting.`
         ]
       },
       {
-        heading: "The World Model",
+        heading: "",
         paragraphs: [
 `This goes deeper than language. A child who has never heard the word \u201Cgravity\u201D catches a ball. She has never studied parabolic motion. She cannot write a single equation. But her hands arrive at the right place at the right time, which means somewhere inside her is a model of how objects move through space under acceleration. A model precise enough to generate motor commands in real time. The physicist who later writes F = mg is not discovering something new. She is exporting something she has known in her body since she was two. The equation is a compression of an understanding that preceded it by years.`,
 `This seems to be true at every level. The engineer who feels that a bridge looks wrong before running the numbers. The trader who exits a position before he can articulate why. The mathematician who senses a proof will work before writing the first line. There is a layer of understanding that runs beneath all formal systems, beneath language, beneath mathematics, beneath physics, and formal systems are how we export it, not how we have it. The intuition is not a shortcut to the rigor. It might be the other way around. The rigor might be a lossy export of the intuition.`,
@@ -187,7 +187,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "The Riemann Sum",
+        heading: "",
         paragraphs: [
 `The difference is something like the difference between a Riemann sum and an integral. A Riemann sum can get arbitrarily close. You can add more rectangles, make them thinner, stack more precision into the approximation. But it is always discrete. Always choppy. Always an approach toward the curve, never the curve itself. The integral is the continuous reality. The thing in your head, the felt sense, the world model, whatever you want to call it: that is the integral. It is continuous. It does not have edges or gaps. Language is a Riemann sum. So is mathematics. So is every formal system ever built. They discretize. They chop continuous understanding into transmittable chunks. A great writer uses thinner rectangles than a bad one. A great equation uses fewer and still gets close. But none of them become the curve. Every time you export into symbols, you are necessarily losing resolution.`,
 `A mathematician will point out that the integral literally is the limit of the Riemann sum. In the limit, the rectangles do become the curve. That is the definition. The response is: yes, in the limit. But all real communication is finite. All real sentences end. All real equations are written in finite symbols. We never reach the limit. That is the point.`,
@@ -195,7 +195,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "Machines and the Export Layer",
+        heading: "",
         paragraphs: [
 `Now imagine building a machine that only works with the export.`,
 `This is roughly the state of modern language models. They are trained to predict the next word in a sequence, given all the previous words. They operate entirely in language-space. They get extraordinarily good at it. Good enough that the output looks like understanding, sometimes even feels like understanding. But it is worth asking whether predicting the next word is the same as knowing what you mean before you say it.`,
@@ -209,7 +209,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "The Bandwidth Problem",
+        heading: "",
         paragraphs: [
 `There is a thought that follows from this, if you let it. If every formal system we have (language, mathematics, logic) is a Riemann sum imposed on continuous understanding, then all of human communication is built on lossy compression. Every conversation is two people discretizing their world models, transmitting the rectangles, and hoping the other side reconstructs something close to the original curve. Sometimes it works. Often something is lost. Writing helps. It gives you time to hold the thought still and find the right rectangle. But most of human life does not happen in writing. It happens in real time. Negotiations, arguments, diplomacy: moments where the stakes are highest are precisely the moments where you have the least time to translate. The pressure compresses the compression. You reach for the first rectangle that fits, not the best one. The other side decodes it wrong. Both sides are intelligent. Both sides mean well. The loss is not in the thinking. It is in the bandwidth. I am not naive enough to think that all conflict is miscommunication. Sometimes both sides understand each other perfectly and still choose to fight. But there is a category of failure that comes purely from the format, not the intent. And that category is larger than we tend to admit.`,
 `Language models operate in this same layer. They master the rectangles. The discrete, symbolic, lossy format that humans already settled for. This does not make them unimportant. A better Riemann sum is still a better approximation. Language models will do extraordinary things for humanity within the layer they operate in. But the layer has a ceiling, and the ceiling is language itself. The next step, for machines and for us, is to move closer to the curve.`,
@@ -217,7 +217,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "Building the World Model",
+        heading: "",
         paragraphs: [
 `And if we build world models in machines before we fully understand our own (which seems likely, given that we can iterate on silicon faster than we can decode biology) then the machines may be what finally make the biological version legible. This is not a new method. In mathematics, you prove a theorem by first showing it holds for the simplest case. You do not decode an unknown system by staring at it. You build a tractable version, understand its structure, and look for correspondences in the harder one.`,
 `This means the timeline might be shorter than it seems. Not because neuroscience will suddenly accelerate, but because the problem can be approached from the other side. Build the world model. Understand its geometry. Then turn that understanding inward.`,
@@ -226,7 +226,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "The Case Against Inspection",
+        heading: "",
         paragraphs: [
 `There is an entirely different tradition that would say this is exactly wrong. That the world model\u2019s power comes from the fact that it operates beneath conscious access, and that dragging it into the light is the thing that breaks it. This is not a fringe position. It is one of the oldest observations about human performance. Zen practitioners call it mushin, the state of no-mind. Taoism calls it wu wei, action without forced effort. The flow state research that Csikszentmihalyi spent decades documenting describes the same thing from a secular angle: peak performance occurs when conscious narration drops away and the underlying system operates unobstructed. Meditation, in nearly every tradition that practices it, is essentially a technique for shutting down the narration layer. One common instruction is to observe your thoughts without engaging them. Another is to think about your thoughts until they stop coming. Both are manual overrides to silence the voice that monitors, narrates, and interferes with a process that was already running cleanly.`,
 `This is not a theory for the people who operate this way. It is a method. And the people who operate this way tend to produce results that are difficult to argue with. Their position would be clear: you do not improve the world model by inspecting it. You improve it by living, by accumulating experience, and then you get out of its way. The interference is the problem. More access is more interference.`,
@@ -235,7 +235,7 @@ const ESSAYS = [
         ]
       },
       {
-        heading: "Toward the Curve",
+        heading: "",
         paragraphs: [
 `So the question is not whether to trust the world model or to inspect it. Both are real. The question is when. In action, trust it. In construction, give it sharper instruments. And know which mode you are in.`,
 `If we could build less lossy instruments, instruments closer to the integral than language or mathematics currently are, both modes improve. The execution gets cleaner because there is less translation noise between the felt sense and the output. And the construction gets deeper because the scaffolding no longer bottlenecks what can be built on it.`,
@@ -798,7 +798,7 @@ function HomePage({ mounted, navigateTo, theme }) {
         }}>
           Latest
         </p>
-        {ESSAYS.map((essay) => (
+        {[...ESSAYS].reverse().map((essay) => (
           <div
             key={essay.id}
             onClick={() => navigateTo("essay", essay)}
@@ -841,7 +841,7 @@ function HomePage({ mounted, navigateTo, theme }) {
                 flexShrink: 0,
                 letterSpacing: "0.04em"
               }}>
-                {essay.title}
+                {essay.essayLabel || essay.title}
               </span>
             </div>
             <p style={{
@@ -1165,7 +1165,7 @@ function EssayPage({ essay, mounted, navigateTo, theme }) {
       }}>
         {activeSections.map((section, si) => (
           <div key={si}>
-            <h2 style={{
+            {section.heading && <h2 style={{
               fontFamily: "'Syne', sans-serif",
               fontSize: 28,
               fontWeight: 400,
@@ -1175,7 +1175,7 @@ function EssayPage({ essay, mounted, navigateTo, theme }) {
               marginBottom: 32
             }}>
               {section.heading}
-            </h2>
+            </h2>}
             {section.paragraphs.map((paragraph, pi) => (
               <p key={pi} style={{
                 fontFamily: "'Inter', sans-serif",
