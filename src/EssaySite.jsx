@@ -13,7 +13,7 @@ const ESSAYS = [
     id: "mangilik-tartip",
     title: "Mäñgilik Tärtıp",
     displayTitle: "First Essay",
-    essayLabel: "First Essay (kind of long)",
+    essayLabel: "Mäñgilik Tärtıp",
     date: "March 2026",
     readTime: "~18 min read",
 
@@ -73,7 +73,7 @@ const ESSAYS = [
     id: "the-iran-trade",
     title: "Iran Trade",
     displayTitle: "The Persian Corridor Thesis",
-    essayLabel: "The Persian Corridor Thesis",
+    essayLabel: "Iran Trade",
     date: "February – March 2026",
     readTime: "~7 min read",
     subtitle: "A case study on political economy and market volatility",
@@ -146,8 +146,7 @@ const ESSAYS = [
         heading: "7.",
         paragraphs: [
 `Each link was a separate judgment. If any one failed, the trade doesn't work.`,
-`Internal crisis -> strike is imminent -> provocation makes silence impossible -> external threat unifies the country -> Hormuz is the optimal weapon -> oil spikes -> exit when counterforce appears.`,
-`Seven links. All held.`
+`Internal crisis -> strike is imminent -> provocation makes silence impossible -> external threat unifies the country -> Hormuz is the optimal weapon -> oil spikes -> exit when counterforce appears.`
         ]
       }
     ],
