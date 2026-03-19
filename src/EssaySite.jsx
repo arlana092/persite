@@ -155,7 +155,7 @@ const ESSAYS = [
     id: "do-you-think-in-words",
     title: "Do You Think in Words?",
     displayTitle: "Do You Think in Words?",
-    essayLabel: "Does human language require a new solution?",
+    essayLabel: "Cost of Words",
     date: "March 2026",
     readTime: "~20 min read",
 
@@ -240,6 +240,100 @@ const ESSAYS = [
 `If we could build less lossy instruments, instruments closer to the integral than language or mathematics currently are, both modes improve. The execution gets cleaner because there is less translation noise between the felt sense and the output. And the construction gets deeper because the scaffolding no longer bottlenecks what can be built on it.`,
 `If you could transmit the understanding itself, not the words for it, not the equation for it, but the actual felt structure, then something fundamental changes. Not just the speed of communication. The nature of it. Misunderstanding is not a failure of intelligence. It is an artifact of the format. Two people can be equally intelligent, equally well-intentioned, and still lose each other in translation. Because they are translating. Remove the translation and you remove an entire category of human failure. Diplomacy, education, medicine, social relationships. Every domain where one person tries to make another person understand something. All of them are bottlenecked by the same compression.`,
 `I do not know if this happens in fifty years or five hundred. I do not know if it looks like a neural interface or something no one has imagined yet. The more I think about this, the less I feel I understand, which is probably the right sign. But the direction seems hard to escape. Any civilization that survives long enough eventually notices the gap between what it understands and what it can say. And then it tries to close it.`
+        ]
+      }
+    ],
+  },
+  {
+    id: "who-are-you-acting-for",
+    title: "Who Are You Acting For?",
+    displayTitle: "Who Are You Acting For?",
+    essayLabel: "Ego, Solitude, and the Things You Avoid",
+    date: "March 2026",
+    readTime: "~15 min read",
+
+    excerpt: "There is a person who annoys you. You are sitting somewhere with people you know, and someone walks up uninvited and inserts himself into the conversation. You feel the intrusion immediately. Not morally wrong; structurally wrong.",
+    sections: [
+      {
+        heading: "",
+        paragraphs: [
+`There is a person who annoys you. You are sitting somewhere with people you know, a restaurant, a waiting area, wherever, and someone walks up uninvited and inserts himself into the conversation. You feel the intrusion immediately. Not morally wrong; structurally wrong. The energy was stable, and now it is not. You did not invite him. You do not owe him your attention. And you build a rule from this feeling: people should not approach strangers. It is intrusive. It is desperate. It disrupts something that was working.`,
+`This is a reasonable rule. It is also a suspiciously convenient one.`,
+`I have operated on this rule for most of my life. The people I know are people I was placed near: classmates, roommates, gym regulars, program cohorts. The connection always had a structural excuse before anyone opened their mouth. You share a schedule, a dorm, a problem set, a weight rack. Proximity does the work. One day you offer someone a WiFi hotspot and three months later you have a friend. It feels organic because it is. Nothing was forced. Nothing was performed. The relationship emerged from a shared container, and nobody had to do anything embarrassing to start it.`,
+`This works. I am not questioning whether it works. I am questioning whether it is a philosophy or a dependency.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`There is also something else that makes the dependency comfortable. When I am alone, I am not bored. I am not restless. I am not waiting for someone to fill a silence. The silence is already full. On a long walk I can live inside my own head for hours. An idea arrives and I follow it, and at some point the idea stops being a thought and starts being a place. I am inside it. I can feel how a system would move, where the load would concentrate, what would buckle first. I can smell something that is not there. I can hear a sound that has no source. I once spent an entire walk down a mountain road working through a problem and when I reached the bottom I could not remember a single thing I had seen on the way down, because I had not been on the mountain. I had been somewhere else entirely. A conversation I have with myself during one of these walks is often more vivid and more engaging than most conversations I have with actual people. This is not an insult to people. It is a description of what happens inside my skull when nothing external is competing with it. The internal world does not need company. It runs its own theater, and the production quality is high.`,
+`But not every show in that theater is useful. And this is where it gets uncomfortable. The same walk that produces something real can also produce nothing: twenty minutes of replaying a conversation that does not matter, constructing an argument against someone who will never hear it, running a fantasy that serves nothing, drifting and drifting before noticing I drifted at all. The theater does not distinguish between the useful and the waste. It just runs. And if I let it run without watching, it will entertain me with garbage for hours and call it thinking. I catch myself doing this. Stop. The thought arose. It was unnecessary. You let it run because you were not paying attention. Do not do that. That is the whole problem. The capacity that makes solitude rich can make it poisonous if you never learn to sit with yourself and actually watch what is happening in there. Not think, watch. Sit for half an hour with no input, observe the thoughts as they arrive, and remove the ones that are not doing anything. Most of them are not doing anything. The best thinking I have ever done was wordless. The moment the narrator starts commenting on the thinking, the quality drops. Sitting with yourself is not the same thing as thinking. It is closer to cleaning.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`I think everyone should spend at least half an hour a day doing nothing. Sit down, anywhere, and do not think. Just observe. Feel whatever is around you: the air, the sounds, the weight of your own body. When a thought arrives, and it will, notice it arriving and discard it. Do not engage it. Do not follow it. Just let it pass and return to the nothing. When the next one comes, do the same thing. Most people will find this almost unbearable, because most people have never sat with themselves without producing something: a plan, a worry, a narrative, a fantasy. The mind does not want to be still. It will fight you. One way to win is paradoxical: think about your thoughts. Not the content. The fact of them. Watch the mechanism that produces them. Observe the thought arriving the way you would observe a stranger entering a room, without judgment, without interaction, just awareness that it appeared. Something about watching the machine makes the machine slow down. It sounds like it should not work. It does.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`So when I say I prefer to be alone, I am not lying. But I wonder sometimes whether I have confused the richness of the inner world with evidence that the outer one has nothing to offer. Whether the theater has become a reason to never leave the building.`,
+`Because there is another kind of environment where there is no container. A concert, a new city, a room where nobody knows each other and nobody shares a reason to talk. In these places, nothing happens unless someone creates it. And I do not create it. I stand where I am, I observe. It is not something I think about. Most people who put their energy toward something either get it or create the conditions for it to happen. The people who want to meet others go and meet others. The people who want a social scene build one or find one. The ones who ended up in my life were the ones who brought that energy themselves: they started something, and it continued, and that was fine.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`Non-attachment, the real kind, does not calculate. It does not care whether it looks desperate or mysterious. It acts or does not act, and in neither case does it run a simulation of how the action will be perceived. The person who refuses to approach anyone because approaching might look thirsty is not free from desire. He is enslaved to a very specific one: the desire to never appear vulnerable. That is still ego. It is just quieter ego. Do not confuse quiet with safe. The quiet kind protects through absence rather than performance, and because it never makes noise, you can carry it for years without noticing it is the thing running your life.`,
+`I have a friend, Jaquavion, from Atlanta. He moves through the world with a kind of openness: genuinely curious about people, no filter between what he thinks and what he does, no background calculation about how anything will land. He will talk to anyone about anything, not because he is performing something but because he actually wants to know. It occurs to me that Darius from the show Atlanta (Donald Glover's Atlanta, 2016) is the perfect representation of him. And Darius is worth thinking about for a moment, because what makes him powerful is difficult to pin down. It is not charisma in the traditional sense. It is not confidence. It is the absence of the thing that makes most people hesitate. He does what he feels like in the moment, without shame, without narrative, without the constant background process that most people run: how does this look? What does this signal? Am I being weird? That background process is the ego. Remove it and something else operates. And the result is that people are drawn in, not because anything attractive is being performed, but because the absence of performance is itself rare enough to be magnetic.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`I am not Darius. I run the background process constantly. I suspect most people do. The question is what the process is actually protecting.`,
+`Here is something I noticed. The same person who annoys me in a social situation, the one who approaches uninvited, would not annoy me at all if he were someone I found impressive. If a person I respected for their skill, their dominance in a field, their obvious mastery of something, walked up and started talking, I would not feel intruded upon. The annoyance is not about the approach. It is about who is approaching. Which means the rule I built (do not approach strangers, it is intrusive) was never actually about the approach. It was about status. I do not want to be the person who approaches because I have placed approaching in the category of people who are not worth my time. The people who come to me are welcome. The act of going to someone else feels like a demotion.`,
+`That is ego. There is no other word for it.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`And it creates a specific blindness. If you only connect in high-context environments (classrooms, programs, structured cohorts) you are outsourcing all of your social initiation to institutions. The school puts you in a room. The program assigns you a cohort. The gym schedules your sessions. You show up, and the container does the rest. This works beautifully inside the container. It fails completely outside it. A new city has no container. A concert has no container. The rest of adult life, most of it, has no container. If your only framework for human connection requires an external structure to create the excuse, then you are dependent on structures that will not always exist.`,
+`This connects to something broader about how people move through events. There is a question you can ask about any room you walk into: why am I here? And the honest answer reveals more than the stated one. You go to a lecture. Are you there because you want to understand the material, or because you want to be seen understanding it? You attend a concert. Are you there for the music, or for the story of having been there? You enter a room full of strangers. Are you open to what the room contains, or are you already performing a version of yourself that you hope the room will validate?`,
+`The distinction is between arriving with a goal and arriving with a posture. A goal is specific: I want to hear this band, I want to learn this concept, I want to find someone who knows about this field. A posture is ambient: I want to seem like the kind of person who goes to these things. Goals can be satisfied. Postures cannot, because they are not about the event. They are about the self-image the event services. And the person trapped in posture never actually experiences the room he is in. He experiences his performance of being in it.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`I do not think I am fully either. But I notice the pull toward posture more than I am comfortable admitting, and I think the thing that kills posture is the same thing that makes presence work: genuine curiosity that is not filtered through self-image. Curiosity about the bass line, not about being someone who appreciates bass lines. Curiosity about the stranger, not about being someone interesting enough that strangers approach. The shift is subtle but total. It is the difference between listening to music because you want to hear it and listening to music because you want to have heard it.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`There is a strange idea about ego that I have been circling for a while. It says that the path to killing the ego runs through embarrassment. Not away from it. Through it.`,
+`This sounds wrong. It sounds like advice a motivational speaker gives to a room full of people who paid to feel uncomfortable for an afternoon. But sit with it for a moment.`,
+`The ego is the part of you that monitors how you are perceived. It runs constant surveillance on the social field: am I being respected? Am I being taken seriously? Do I look stupid right now? Embarrassment is the alarm system. It fires when the ego detects a threat to the image. Everything you avoid socially, every conversation you do not start, every room you do not enter, every moment you let pass because it might be awkward: all of it is the alarm doing its job. The ego is protected. The image is maintained. And nothing happens.`,
+`So what happens if you walk into the alarm on purpose? Not to prove something. Not as a performance of bravery. Just as a question: what actually happens when the thing the ego is afraid of occurs? You do the awkward thing. You say the thing that might not land. You approach when you might be unwelcome. And the ego fires. And you survive. And it fires again next time, but quieter. And quieter. Because the ego cannot maintain a threat response against something that keeps happening without consequence. It is an alarm system. If it keeps going off and nothing bad follows, it recalibrates. That is not theory. That is how every alarm system works.`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`And then you notice something. The people who actually live without ego (the real ones, not the people who perform egolessness as another kind of status) are doing the embarrassing things constantly. They talk to strangers. They ask odd questions. They say what they think without rehearsing it first. They laugh too loud. They wear something strange and do not seem to know it is strange. They walk up to someone at an event and say something that does not land and then just stand there, fine with it. From the outside, this can look foolish. And sometimes it is. Some of these people are awkward. Some of them are not particularly sharp. Some of them are genuinely saying dumb things to people who do not want to hear them. This is not a defense of every person who lacks social awareness. But watch what happens next. People judge them. People think: why would he say that. People think: that was embarrassing. People think: I would never do that. People lean over to their friend and whisper something about the guy who just tried to start a conversation and got nothing back. And the guy is already gone. He is already somewhere else, doing something else, not thinking about any of this. Maybe he is dumber than you. Maybe he is smarter. It does not matter. The people without ego do not care what others think. It does not affect them at all. How can you hurt someone who does not know your perception of them exists? You can think all you want about how weird and stupid they are. You can build an entire internal case for why you are better, why you would never, why your silence is dignity and their openness is desperation. But at the end of the day, are you not the one wasting your energy thinking about them? Are you not the dumb weirdo obsessing over a person who is out there living his life? He has already moved on. You are the one still replaying it. Between the two of you, who is free?`
+        ]
+      },
+      {
+        heading: "",
+        paragraphs: [
+`There is an argument from the contemplative traditions (Zen, Taoism, Stoic practice) that the ego is not defeated by attacking it. It is defeated by forgetting it. You do not kill the background process by running a louder one on top of it. You kill it by becoming so absorbed in what is actually in front of you that the process has nothing to monitor. The musician in flow is not thinking about whether the audience likes her. She is inside the music. The thought about the audience requires a self watching itself from the outside, and flow eliminates the outside vantage point. There is no one left to evaluate the performance because the performer has dissolved into the act.`,
+`Maybe that is the only honest move. Not to engineer the right social strategy, not to calculate when to approach and when to wait, not to build a theory of high-context and low-context environments and optimize for each. Just to lower the filter enough that if something is actually in front of you (a sound, a person, a moment) you respond to the thing itself and not to your model of what responding to it says about you.`,
+`I do not know whether this is achievable or whether it is one of those ideas that sounds right and dissolves on contact with reality. The ego is persistent. It rebuilds faster than you can dismantle it. But I think the direction is clear even if the destination is not. Every tradition that has taken human performance seriously (in combat, in art, in meditation, in leadership) has arrived at the same conclusion: the self watching itself is the bottleneck. Get out of its way and something better operates.`,
+`The question I keep returning to is whether my stillness is that something better, or whether it is just the bottleneck pretending to be quiet.`
         ]
       }
     ],
@@ -820,7 +914,8 @@ function HomePage({ mounted, navigateTo, theme }) {
             <div style={{
               display: "flex",
               alignItems: "baseline",
-              gap: 12,
+              flexWrap: "wrap",
+              gap: "4px 12px",
               marginBottom: 8
             }}>
               <span style={{
@@ -837,7 +932,6 @@ function HomePage({ mounted, navigateTo, theme }) {
                 fontSize: 11,
                 color: theme.textFaint,
                 fontWeight: 400,
-                flexShrink: 0,
                 letterSpacing: "0.04em"
               }}>
                 {essay.essayLabel || essay.title}
