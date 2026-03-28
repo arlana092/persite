@@ -337,7 +337,6 @@ const ESSAYS = [
         ]
       }
     ],
-  }
   },
   {
     id: "undelivered",
