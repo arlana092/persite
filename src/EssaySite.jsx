@@ -721,7 +721,7 @@ const ESSAYS = [
       {
         heading: "",
         paragraphs: [
-`Communism: a political and economic doctrine that seeks to replace private property and the profit-based economy with public ownership and communal control of the means of production, aiming at a classless, stateless society organized on the principle that each contributes according to ability and receives according to need.`,
+`//Communism: a political and economic doctrine that seeks to replace private property and the profit-based economy with public ownership and communal control of the means of production, aiming at a classless, stateless society organized on the principle that each contributes according to ability and receives according to need.//`,
 `Most of us have heard the word. The first thing that appears in your head when you hear it is probably the USSR. Maybe a hammer and sickle. Maybe a propaganda poster. Maybe a grainy photograph of a line outside a store. Maybe a name. Lenin, Stalin, Mao. The image arrives faster than the definition, and the image is doing most of the work in any conversation that uses the word.`,
 `Look at what the definition actually says.`,
 `Classless. Stateless. From each according to ability, to each according to need.`,
@@ -924,11 +924,15 @@ const THEMES = {
 const noiseFilter = `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E")`;
 
 function renderText(text, theme) {
-  const parts = text.split(/(==.*?==)/g);
+  const parts = text.split(/(==.*?==|\/\/.*?\/\/)/g);
   return parts.map((part, i) => {
     if (part.startsWith("==") && part.endsWith("==")) {
       const inner = part.slice(2, -2);
       return <span key={i} style={{ fontWeight: 600, color: theme.textHL }}>{inner}</span>;
+    }
+    if (part.startsWith("//") && part.endsWith("//")) {
+      const inner = part.slice(2, -2);
+      return <span key={i} style={{ fontStyle: "italic" }}>{inner}</span>;
     }
     return part;
   });
