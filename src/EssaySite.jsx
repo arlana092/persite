@@ -843,10 +843,10 @@ const ESSAYS = [
     id: "shekels-beads",
     title: "Shekels, Beads, and Some Other Stuff",
     displayTitle: "Shekels, Beads, and Some Other Stuff",
-    essayLabel: "Some thoughts on money.",
+    essayLabel: "Thoughts on money",
     date: "May 2026",
     readTime: "~24 min read",
-    subtitle: "Some thoughts on money.",
+    subtitle: "Thoughts on money",
 
     excerpt: "You hand someone a piece of paper, and they hand you bread. This is so ordinary that nobody notices it anymore. The paper has no value. It is cotton and ink. But the exchange happens anyway, and somewhere in the chain of agreements that makes this possible, something is being trusted that neither of you can see.",
     sections: [
